@@ -14,6 +14,7 @@ Most of my recent work lives in private repositories, so the public ones here ar
 
 | Project | What it is |
 |---|---|
+| [Kaneasy](https://kaneasy.com) | Kanban SaaS with budgets, reports and in-project chat. Google sign-in, email invites, roles and co-ownership, English and Portuguese. Built and run solo. |
 | [ServiSpot](https://servispot.com) | Canadian local services marketplace. Laravel REST API, React front end, three domains, built solo. |
 | [EstatiLoto](https://estatiloto.com.br) | Subscription product with payment gateway, signed webhooks and automatic expiry. Deploys from `main`. |
 | [MaxRender](https://maxrender.com.br) | Digital publication I founded in 2017. Laravel platform, hosting and technical SEO. 500,000+ readers. |
